@@ -10,7 +10,7 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 ### Törölve
 
-- `AramBoost` - ki lett patchelve
+- `AramBoost` - ki lett patchelve <br><br>
 
 
 
