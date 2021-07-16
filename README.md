@@ -2,7 +2,7 @@
 
 Minden változtatás ezen az oldalon lesz feltüntetve.
 
-## [1.0.0] - 2021-07-16
+## [1.0.0] - 2021-07-02
 
 ### Hozzáadva
 
