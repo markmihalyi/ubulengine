@@ -6,7 +6,7 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 ### Módosítva
 
-- `*InviteSpam` - pár bugfix
+- `*InviteSpam` - pár komolyabb bug ki lett javítva
 
 ### Törölve
 
