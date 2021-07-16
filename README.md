@@ -12,6 +12,8 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 - `AramBoost` - ki lett sajnos patchelve, nagy kár érte :\
 
+
+
 ## [1.0.1] - 2021-07-02
 
 ### Hozzáadva
