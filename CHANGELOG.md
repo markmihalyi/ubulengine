@@ -1,3 +1,14 @@
 # Fejlesztési napló
 
 Minden változtatás ezen az oldalon lesz feltüntetve.
+
+## [1.0.0] - 2021-07-16
+
+### Hozzáadva
+
+- `AutoAccept` - automatikusan elfogadja a meccskeresést, amint megjelenik az ablak
+- `AramBoost` - manuálisan és automatikusan is működő aram boost RP levonás nélkül
+- `*InviteSpam` - egyszerre akár 20 fiókkal történő folyamatos invite spammer <br>(bárkivel működik, aki a fiókokkal azonos régióban van)
+##
+
+#### A csillaggal megjelölt funkciók nem mindenki számára elérhetők.
