@@ -12,6 +12,18 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 - `AramBoost` - ki lett patchelve <br><br>
 
+<!-- cigány -->
+
+## [1.0.2] - 2021-07-16
+
+### Módosítva
+
+- `*InviteSpam` - pár komolyabb bug ki lett javítva
+
+### Törölve
+
+- `AramBoost` - ki lett patchelve <br><br>
+
 
 
 ## [1.0.1] - 2021-07-02
