@@ -28,4 +28,4 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 - `*InviteSpam` - egyszerre akár 20 fiókkal történő folyamatos invite spammer <br>(bárkivel működik, aki a fiókokkal azonos régióban van)
 <!-- ------------------------------------------------------------------------------------------------ -->
 ##
-#### A csillaggal megjelölt funkciók nem mindenki számára elérhetők.
+#### *Ez a funkció nem mindenki számára elérhető.
