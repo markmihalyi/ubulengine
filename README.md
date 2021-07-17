@@ -27,7 +27,7 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 - `AutoAccept` - automatikusan elfogadja a meccskeresést, amint el lehet fogadni
 - `AramBoost` - manuálisan és automatikusan is működő aram boost RP levonás nélkül
-- `*InviteSpam` - egyszerre akár 20 fiókkal történő folyamatos invite spammer <br>bárkivel működik, aki a fiókokkal azonos régióban van
+- `*InviteSpam` - egyszerre akár 20 fiókkal történő folyamatos invite spammer <br>Bárkivel működik, aki a fiókokkal azonos régióban van.
 <!-- ------------------------------------------------------------------------------------------------ -->
 ##
 #### *Ez a funkció nem mindenki számára elérhető.
