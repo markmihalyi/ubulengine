@@ -9,7 +9,7 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 - `AvailabilityChanger` - bármilyen állapotot képes beállítani a profilodnak, akár offline-t is
 - `IconChanger` - a kezdő képernyő alján most már megtalálható az ikon változtató funkció
-<br>..<br><br>
+<br>Globálisan azt az ikont tudod használni, ami meg is van. Ha nincs meg az ikon, akkor lokálisan is meg tudod változtatni.<br><br>
 <!-- ------------------------------------------------------------------------------------------------ -->
 ## [1.0.2] - 2021-07-16
 
