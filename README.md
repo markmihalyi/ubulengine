@@ -5,6 +5,8 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 <!-- ------------------------------------------------------------------------------------------------ -->
 ## [1.0.4] - 2021-07-20
 
+*Patchen kívül még!*
+
 ### Hozzáadva
 
 - `Instalock` - champ selectben automatikusan kiválasztja a megadott karaktert még mielőtt más tenné meg <br>Nagyon hasznos lehet új karakter esetén blind pick-ben vagy elég csak arra gondolni, ha valaki yasuo main.
