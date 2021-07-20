@@ -12,7 +12,7 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 ### Módosítva
 
 - Értesítés ablakok átdolgozva
-- Kisebb kinézetbeli változások<br><br>
+- Kisebb kinézetbeli változtatások<br><br>
 <!-- ------------------------------------------------------------------------------------------------ -->
 ## [1.0.3] - 2021-07-17
 
