@@ -3,6 +3,12 @@
 Minden változtatás ezen az oldalon lesz feltüntetve.
 
 <!-- ------------------------------------------------------------------------------------------------ -->
+## [1.0.6] - 2021-07-25
+
+### Módosítás
+
+- Mostantól a program kliens verziójától függetlenül működik, tehát amint jön egy újabb patch, nem kell mindig frissíteni.<br><br>
+<!-- ------------------------------------------------------------------------------------------------ -->
 ## [1.0.5] - 2021-07-22
 
 ### Módosítás
