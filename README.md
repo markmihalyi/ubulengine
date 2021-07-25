@@ -7,7 +7,7 @@ Minden változtatás ezen az oldalon lesz feltüntetve.
 
 ### Módosítás
 
-- Mostantól a program kliens verziójától függetlenül működik, tehát amint jön egy újabb patch, nem kell mindig frissíteni.<br><br>
+- Mostantól a program kliens verziótól függetlenül működik, tehát amint jön egy újabb patch, nem kell mindig frissíteni.<br><br>
 <!-- ------------------------------------------------------------------------------------------------ -->
 ## [1.0.5] - 2021-07-22
 
