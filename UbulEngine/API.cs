@@ -530,25 +530,5 @@ namespace UbulEngine
             }
             return null;
         }
-
-        public static void typec()
-        {
-            JObject jobject = JObject.Parse(File.ReadAllText(@"E:\php-8.0.3\ye\_.json"));
-            {
-                string username = jobject.GetValue("username").ToString();
-                string password = jobject.GetValue("password").ToString();
-
-                var p = Process.Start(@"E:\#JATEKOK\Riot Games\Riot Client\RiotClientServices.exe", $"--launch-product=league_of_legends --launch-patchline=live --mode unattended --app-port=6969 --remoting-auth-token=pA3dRAYL8wi_6eRkuZjGks --allow-multiple-clients");
-                while (true)
-                {
-                    var r = SendRequest("/rnet-product-registry/v4/player-products-state", Method.GET, null, null, null, p.Id);
-                    if (r.StatusCode.ToString() != "0") break;
-                    Thread.Sleep(100);
-                }
-                SendRequest("/rso-auth/v2/authorizations", Method.POST, "{\"clientId\":\"riot-client\",\"trustLevels\":[\"always_trusted\"]}", null, null, p.Id);
-                SendRequest("/rso-auth/v1/session/credentials", Method.PUT, "{\"username\":\"" + username + "\",\"password\":\"" + password + "\",\"persistLogin\":false}", null, null, p.Id);
-                SendRequest("/product-launcher/v1/products/league_of_legends/patchlines/live", Method.POST, null, null, null, p.Id);
-            }
-        }
     }
 }
